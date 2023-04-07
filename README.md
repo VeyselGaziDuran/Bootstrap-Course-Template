@@ -1,4 +1,4 @@
-#Bootstrap project
+#Bootstrap Course Project
 
 ![screencapture-127-0-0-1-5501-courses-html-2022-08-30-19_31_20](https://user-images.githubusercontent.com/81925500/187491211-cf92ae7c-0d58-4afd-ad36-4fd1b92b1ee6.png)
 ![screencapture-127-0-0-1-5501-index-html-2022-08-30-19_30_56](https://user-images.githubusercontent.com/81925500/187491223-d3fcda14-e59c-4732-ab07-4a9efebf4fa7.png)
